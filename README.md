@@ -39,3 +39,14 @@ Dockerfile — это текстовый файл, содержащий инст
 
 5. Как подготовить проект для GitHub?
 Через команды `git init`, `git add .`, `git commit -m "initial commit"`, `git branch -M main`, `git remote add origin <URL>` и `git push -u origin main`.
+
+
+<img width="1151" height="369" alt="image" src="https://github.com/user-attachments/assets/c82530a9-ff28-4c71-8dd9-d1ab754c0abf" />
+
+<img width="641" height="163" alt="image" src="https://github.com/user-attachments/assets/2b513cf7-7d1f-487f-b4dc-b79a9f9bfdc9" />
+
+<img width="576" height="378" alt="image" src="https://github.com/user-attachments/assets/b0bfd584-d1cf-4fff-a2b1-8fc9fbd1c315" />
+
+<img width="346" height="284" alt="image" src="https://github.com/user-attachments/assets/1a575dba-8883-4fa2-902f-ab8c384db2ec" />
+
+
